@@ -16,16 +16,16 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 Proyecto (código): 
 
 Tipo/Género:  
-- [x] FictionCiberpunk  
+- [ ] FictionCiberpunk  
 - [ ] Reality/tribus urbanas  
-- [ ] Comic
+- [x] Comic
 
 
 
 ## Resumen
 
 
-### Personaje
+### ROSE
 
 ![](img-nobody.png)
 
